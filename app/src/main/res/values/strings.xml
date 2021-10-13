@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gasolina ou Alcool</string>
+    <string name="titulo">App da Economia</string>
+    <string name="botao">Comparar</string>
+    <string name="Percentual">Percentual %</string>
+    <string name="Resultado1">%</string>
+    <string name="Resultado2">Opte </string>
+
+
+</resources>
